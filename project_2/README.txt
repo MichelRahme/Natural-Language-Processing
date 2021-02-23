@@ -1,5 +1,3 @@
-hello,
-
 
 The code is divided into 5 modules.
 
@@ -33,5 +31,3 @@ python3 module5.py -o data/table.txt
 -o is the output where the resulting table will be stored
 
 
-Thanks,
-Michel
