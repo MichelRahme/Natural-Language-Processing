@@ -1,0 +1,1687 @@
+{
+    "a": [
+        1,
+        {
+            "702": 74
+        }
+    ],
+    "accountancy": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "administration": [
+        1,
+        {
+            "701": 4
+        }
+    ],
+    "admission": [
+        1,
+        {
+            "702": 28
+        }
+    ],
+    "advanced": [
+        1,
+        {
+            "702": 3
+        }
+    ],
+    "all": [
+        1,
+        {
+            "702": 11
+        }
+    ],
+    "analysis": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "and": [
+        2,
+        {
+            "701": 23,
+            "702": 64
+        }
+    ],
+    "anthropology": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "are": [
+        1,
+        {
+            "702": 26
+        }
+    ],
+    "art": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "arts": [
+        1,
+        {
+            "701": 6
+        }
+    ],
+    "artscinematic": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "assessment": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "attached": [
+        1,
+        {
+            "702": 2
+        }
+    ],
+    "business": [
+        2,
+        {
+            "701": 1,
+            "702": 5
+        }
+    ],
+    "businessbusiness": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "by": [
+        1,
+        {
+            "702": 11
+        }
+    ],
+    "ced": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificate": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificatechemical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificatecomputer": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificatecreative": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificateelectrical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificateentrepreneurship": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificateenvironmental": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificatefilm": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificateindustrial": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificateinformation": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificatejohn": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificatequantitative": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificateschool": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificateservice": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificathealth": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "certificattechnologies": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "chain": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "chair": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "cody": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "communautaire": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "computer": [
+        1,
+        {
+            "701": 5
+        }
+    ],
+    "concordia": [
+        1,
+        {
+            "702": 11
+        }
+    ],
+    "council": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "coursesbuilding": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "coursescomputer": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "cultural": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "cultures": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "current": [
+        1,
+        {
+            "702": 2
+        }
+    ],
+    "de": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "dean": [
+        1,
+        {
+            "702": 2
+        }
+    ],
+    "dec": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "degree": [
+        1,
+        {
+            "702": 25
+        }
+    ],
+    "described": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "design": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "development": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "didactique": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "dim": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomabiology": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomabusiness": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomachartered": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomachemical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomachemistry": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomadesign": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomad\u00e9veloppement": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomaeconomics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomaeducation": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomaenglish": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomafaculty": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomahistory": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomainstructional": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomainvestment": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomamathematics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomaplay": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomareligion": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "diplomavisual": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "dipl\u00f4memicroprogramme": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "dipl\u00f4mesocial": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "drama": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "ds": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "du": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "economic": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "education": [
+        1,
+        {
+            "701": 3
+        }
+    ],
+    "emba": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "en": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "engineering": [
+        1,
+        {
+            "701": 32
+        }
+    ],
+    "environmental": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "et": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "except": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "executive": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "exercise": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "facebook": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "faculties": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "fellowsstudent": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "fields": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "finance": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "fine": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "for": [
+        2,
+        {
+            "701": 3,
+            "702": 51
+        }
+    ],
+    "fran\u00e7ais": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "fran\u00e7aise": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "game": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "general": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "genomics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "giim": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "graduate": [
+        2,
+        {
+            "701": 31,
+            "702": 70
+        }
+    ],
+    "graphics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "history": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "image": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "in": [
+        2,
+        {
+            "701": 3,
+            "702": 46
+        }
+    ],
+    "indi": [
+        2,
+        {
+            "701": 2,
+            "702": 4
+        }
+    ],
+    "individual": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "individualized": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "innovation": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "intervention": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "is": [
+        1,
+        {
+            "702": 20
+        }
+    ],
+    "its": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "john": [
+        1,
+        {
+            "702": 4
+        }
+    ],
+    "journalism": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "l'enseignement": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "la": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "langue": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "linguistics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "linguistique": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "linkedin": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "listing": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "literature": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "live": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "ma/mscteaching": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "ma/mscuniversity": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "maadult": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "maart": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "machild": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "maclinical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "macommunication": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "macommunity": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "macreative": [
+        1,
+        {
+            "701": 3
+        }
+    ],
+    "maeconomics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "maeducational": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "magina": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mahumanities": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "majournalism": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "malitt\u00e9ratures": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mamusic": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "management": [
+        1,
+        {
+            "701": 6
+        }
+    ],
+    "mapcompsccomputer": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "maphysics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mapsychology": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mapublic": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mareligions": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mascbuilding": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mascchemical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "masccivil": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mascelectrical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mascindustrial": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mascinformation": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mascmechanical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mascquality": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mascsoftware": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "masociology": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mastudio": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mathematics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "matheological": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "matraduction": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "matraductologie": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mayouth": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mba": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mbamanagement": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mcompscsoftware": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mdesdigital": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "meng3d": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mengbuilding": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mengcivil": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mengcomputer": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mengconstruction": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mengenvironmental": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mengindustrial": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "menginnovation": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mengmechanical": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "mengquality": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "menvgeography": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mfaadvanced": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mfaart": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "miminvestment": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mis": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "molson": [
+        2,
+        {
+            "701": 1,
+            "702": 5
+        }
+    ],
+    "moving": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mpppa": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mscbiotechnology": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mscenvironmental": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mscgeography": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mschispanic": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mscinvestment": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mscmarketing": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mscmbamscsupply": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mscmbusiness": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mscpolitical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "mtmphilosophy": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "music": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "network": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "of": [
+        2,
+        {
+            "701": 7,
+            "702": 95
+        }
+    ],
+    "offered": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "one": [
+        1,
+        {
+            "702": 9
+        }
+    ],
+    "option": [
+        1,
+        {
+            "701": 4
+        }
+    ],
+    "or": [
+        1,
+        {
+            "702": 26
+        }
+    ],
+    "performance": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "phdaerospace": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdapplied": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "phdart": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "phdbiology": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdbuilding": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdchemical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdchemistry": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdcivil": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phddigital": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdeconomics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdelectrical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdenglish": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdenvironmental": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdfilm": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdhealth": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdhistory": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdindividualized": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdinformation": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdjudaic": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdmathematics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdmechanical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdmedia": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdmsc": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdphysics": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdpolitical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdpsychology": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdsocial": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "phdsoftware": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "policy": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "pour": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "practice": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "practices": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "procedurespostdoctoral": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "production": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "professional": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "program": [
+        2,
+        {
+            "701": 2,
+            "702": 59
+        }
+    ],
+    "programinternational": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "programs": [
+        1,
+        {
+            "702": 27
+        }
+    ],
+    "programsengineering": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "provided": [
+        1,
+        {
+            "702": 2
+        }
+    ],
+    "psychology": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "public": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "regulationsprogram": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "repertoirefaculty": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "school": [
+        2,
+        {
+            "701": 2,
+            "702": 14
+        }
+    ],
+    "science": [
+        1,
+        {
+            "701": 9
+        }
+    ],
+    "scienceengineering": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "sciencehuman": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "seconde": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "section": [
+        1,
+        {
+            "702": 4
+        }
+    ],
+    "security": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "servicesthesis": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "society": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "studentspolicies": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "studies": [
+        2,
+        {
+            "701": 14,
+            "702": 31
+        }
+    ],
+    "studiesindividualized": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "study": [
+        1,
+        {
+            "702": 9
+        }
+    ],
+    "supervision": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "systems": [
+        1,
+        {
+            "701": 6
+        }
+    ],
+    "teaching": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "technical": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "technologies": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "technology": [
+        1,
+        {
+            "701": 3
+        }
+    ],
+    "the": [
+        1,
+        {
+            "702": 118
+        }
+    ],
+    "therapies": [
+        1,
+        {
+            "701": 3
+        }
+    ],
+    "therapy": [
+        1,
+        {
+            "701": 5
+        }
+    ],
+    "three": [
+        1,
+        {
+            "702": 8
+        }
+    ],
+    "to": [
+        1,
+        {
+            "702": 78
+        }
+    ],
+    "traduction": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "twitter": [
+        1,
+        {
+            "702": 1
+        }
+    ],
+    "under": [
+        1,
+        {
+            "702": 2
+        }
+    ],
+    "unit": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "university": [
+        1,
+        {
+            "702": 14
+        }
+    ],
+    "urban": [
+        1,
+        {
+            "701": 2
+        }
+    ],
+    "work": [
+        1,
+        {
+            "701": 1
+        }
+    ],
+    "\u00e9conomique": [
+        1,
+        {
+            "701": 1
+        }
+    ]
+}

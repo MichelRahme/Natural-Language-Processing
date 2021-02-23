@@ -1,0 +1,1631 @@
+{
+    "accountancy": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "administration": [
+        2,
+        {
+            "695": 4,
+            "696": 4
+        }
+    ],
+    "analysis": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "and": [
+        1,
+        {
+            "696": 24
+        }
+    ],
+    "anthropology": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "art": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "arts": [
+        1,
+        {
+            "696": 6
+        }
+    ],
+    "artscinematic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "assessment": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "awards": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "business": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "businessbusiness": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "calendar": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "calendaracademic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "ced": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificate": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "certificatechemical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificatecomputer": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificatecreative": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificateelectrical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificateentrepreneurship": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "certificateenvironmental": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificatefilm": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificateindustrial": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificateinformation": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificatejohn": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificatequantitative": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "certificateschool": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "certificateservice": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificathealth": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "certificattechnologies": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "chain": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "co-operative": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "cody": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "communautaire": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "computer": [
+        1,
+        {
+            "696": 5
+        }
+    ],
+    "concordia": [
+        1,
+        {
+            "697": 5
+        }
+    ],
+    "coursesbuilding": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "coursescomputer": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "cultural": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "cultures": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "currentdisclaimeruniversity": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "datesacademic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "de": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "dec": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "design": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "development": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "didactique": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "differential": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "dim": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "diplomabiology": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomabusiness": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "diplomachartered": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "diplomachemical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomachemistry": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomadesign": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomad\u00e9veloppement": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomaeconomics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomaeducation": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomaenglish": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomafaculty": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomahistory": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomainstructional": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomainvestment": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "diplomamathematics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomaplay": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomareligion": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "diplomavisual": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "dipl\u00f4memicroprogramme": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "dipl\u00f4mesocial": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "drama": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "ds": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "du": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "economic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "education": [
+        1,
+        {
+            "696": 3
+        }
+    ],
+    "educationinternational": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "emba": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "en": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "engineering": [
+        1,
+        {
+            "696": 32
+        }
+    ],
+    "environmental": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "et": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "executive": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "exemptions": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "exercise": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "facebook": [
+        2,
+        {
+            "696": 1,
+            "697": 1
+        }
+    ],
+    "fees": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "fellowships": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "fellowsstudent": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "finance": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "fine": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "for": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "fran\u00e7ais": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "fran\u00e7aise": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "from": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "game": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "genomics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "giim": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "graduate": [
+        2,
+        {
+            "695": 33,
+            "696": 32
+        }
+    ],
+    "graphics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "history": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "image": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "in": [
+        1,
+        {
+            "696": 3
+        }
+    ],
+    "indi": [
+        2,
+        {
+            "695": 2,
+            "696": 2
+        }
+    ],
+    "information": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "innovation": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "international": [
+        2,
+        {
+            "696": 2,
+            "697": 5
+        }
+    ],
+    "intervention": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "journalism": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "l'enseignement": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "la": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "langue": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "linguistics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "linguistique": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "linkedin": [
+        2,
+        {
+            "696": 1,
+            "697": 1
+        }
+    ],
+    "literature": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "live": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "ma/mscteaching": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "ma/mscuniversity": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "maadult": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "maart": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "machild": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "maclinical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "macommunication": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "macommunity": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "macreative": [
+        1,
+        {
+            "696": 3
+        }
+    ],
+    "maeconomics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "maeducational": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "magina": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mahumanities": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "majournalism": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "malitt\u00e9ratures": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mamusic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "management": [
+        2,
+        {
+            "695": 6,
+            "696": 6
+        }
+    ],
+    "mapcompsccomputer": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "maphysics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mapsychology": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mapublic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mareligions": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mascbuilding": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mascchemical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "masccivil": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mascelectrical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mascindustrial": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mascinformation": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mascmechanical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mascquality": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mascsoftware": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "masociology": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mastudio": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mathematics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "matheological": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "matraduction": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "matraductologie": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mayouth": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mba": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "mbamanagement": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "mcompscsoftware": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mdesdigital": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "meng3d": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mengbuilding": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mengcivil": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mengcomputer": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mengconstruction": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mengenvironmental": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mengindustrial": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "menginnovation": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mengmechanical": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "mengquality": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "menvgeography": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mfaadvanced": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mfaart": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "miminvestment": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "mis": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "molson": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "moving": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mpppa": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mscbiotechnology": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mscenvironmental": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mscgeography": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mschispanic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mscinvestment": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "mscmarketing": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "mscmbamscsupply": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "mscmbusiness": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "mscpolitical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "mtmphilosophy": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "music": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "network": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "of": [
+        2,
+        {
+            "695": 16,
+            "696": 7
+        }
+    ],
+    "office": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "option": [
+        2,
+        {
+            "695": 4,
+            "696": 4
+        }
+    ],
+    "overviewmission": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "performance": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "phdaerospace": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdapplied": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "phdart": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "phdbiology": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdbuilding": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdchemical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdchemistry": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdcivil": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phddigital": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdeconomics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdelectrical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdenglish": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdenvironmental": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdfilm": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdhealth": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdhistory": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdindividualized": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "phdinformation": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdjudaic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdmathematics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdmechanical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdmedia": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdmsc": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "phdphysics": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdpolitical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdpsychology": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdsocial": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "phdsoftware": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "policy": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "pour": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "practice": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "practices": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "procedurespostdoctoral": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "production": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "professional": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "program": [
+        3,
+        {
+            "695": 2,
+            "696": 2,
+            "697": 3
+        }
+    ],
+    "programinternational": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "programsengineering": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "psychology": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "public": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "registrationinstitute": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "regulationsadmissionawardsclassification": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "regulationsprogram": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "repertoirefaculty": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "school": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "science": [
+        1,
+        {
+            "696": 9
+        }
+    ],
+    "scienceengineering": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "sciencehuman": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "seconde": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "security": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "servicesthesis": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "society": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "statementacademic": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "students": [
+        1,
+        {
+            "696": 3
+        }
+    ],
+    "studentspolicies": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "studies": [
+        2,
+        {
+            "695": 15,
+            "696": 14
+        }
+    ],
+    "studiesindividualized": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "systems": [
+        1,
+        {
+            "696": 6
+        }
+    ],
+    "teaching": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "technical": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "technologies": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "technology": [
+        1,
+        {
+            "696": 3
+        }
+    ],
+    "therapies": [
+        1,
+        {
+            "696": 3
+        }
+    ],
+    "therapy": [
+        1,
+        {
+            "696": 5
+        }
+    ],
+    "traduction": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "tuition": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "twitter": [
+        2,
+        {
+            "696": 1,
+            "697": 1
+        }
+    ],
+    "unit": [
+        2,
+        {
+            "695": 1,
+            "696": 1
+        }
+    ],
+    "urban": [
+        1,
+        {
+            "696": 2
+        }
+    ],
+    "work": [
+        1,
+        {
+            "696": 1
+        }
+    ],
+    "\u00e9conomique": [
+        1,
+        {
+            "696": 1
+        }
+    ]
+}
